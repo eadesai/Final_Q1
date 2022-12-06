@@ -1,0 +1,8 @@
+{
+    "gene_exp_fp": "./test/gene_expression_new.csv",
+    "pop_file": "./test/ALL_1000G_phase1integrated_v3.sample",
+    "plink_bed": "./test/output.bed",
+    "plink_bim":"./test/output.bim",
+    "plink_fam": "./test/output.fam",
+    "desired_pop": "AFR"
+}

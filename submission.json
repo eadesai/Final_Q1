@@ -1,0 +1,8 @@
+{
+    "dockerhub-id": "eadesai/methodology5",
+    "build-script": "python run.py"
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> dd86d5c7a27bbc1eeaa6c3a7e5d91bd155aa49ad
